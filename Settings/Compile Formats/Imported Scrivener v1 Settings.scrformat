@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileFormat Name="Imported Scrivener v1 Settings" ID="7728A967-9262-4A1C-9A94-C352518B44A3">
+    <SectionLayouts>
+        <Layout Name="Folders (Level 1)" ID="C5A13EB5-F509-4CC8-BBE8-8665120F86A3">
+            <Include Titles="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Titles>
+                <Prefix><![CDATA[Chapter <$t>: ]]></Prefix>
+            </Titles>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Folders (Level 2)" ID="438A57A0-5C60-41E2-A4E6-0A3B90FB5EEA">
+            <Include Titles="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Folders (Level 3)" ID="60D7A704-08CE-45A1-A74B-B400095B3F3E">
+            <Include Titles="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Folders (Level 4+)" ID="8D1F2249-7CA1-4809-ADBA-8C0649F72B4A">
+            <Include Titles="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text Groups (Level 1)" ID="A1DB44B5-C06F-4436-8D03-789F81594E69">
+            <Include Titles="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Titles>
+                <Prefix><![CDATA[Chapter <$t>: ]]></Prefix>
+            </Titles>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text Groups (Level 2)" ID="5E018628-0230-46BB-8426-BE37ABCCD789">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24\b0\i0 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text Groups (Level 3)" ID="F64C2398-BB7A-442F-9AE4-BA6F3D3FB92A">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text Groups (Level 4+)" ID="3B768146-186E-4528-AA44-EFEF1A807BF8">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text (Level 1)" ID="0AA55DA7-4F4D-46EA-BC4E-0B892A8668FE">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \sa360\qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \sa360\qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs48\cf0\pgnrestart\pgnstarts1
+\pard\plain \sa360\qc\ltrch\loch {\f0\fs48\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text (Level 2)" ID="1FD4674C-8245-4C97-B55A-2D29B38A63B3">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text (Level 3)" ID="735DF834-785B-4777-904C-ABFEE5CA7BC1">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+        <Layout Name="Text (Level 4+)" ID="BF30E0EA-1BDB-43FA-B2F1-0606BB2F313C">
+            <Include Titles="Yes" Text="Yes"/>
+            <RTFBookmark>Yes</RTFBookmark>
+            <PagePadding>12</PagePadding>
+            <Formatting Override="Yes">
+                <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></Title>
+                <TitlePrefix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></TitlePrefix>
+                <TitleSuffix><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPS-BoldMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ql\ltrch\loch {\f0\fs24\b1\i0 Attributes}}]]></TitleSuffix>
+                <MetaData><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></MetaData>
+                <Synopsis><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Synopsis>
+                <Notes><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Notes>
+                <Text><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 CourierNewPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \fi540\ql\ltrch\loch {\f0\fs24 Attributes}}]]></Text>
+                <Subtitles><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 TimesNewRomanPSMT;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \ltrch\loch {\f0\fs24 Attributes}}]]></Subtitles>
+                <PreserveUncommonAlignment>No</PreserveUncommonAlignment>
+                <PreserveTabsAndIndents>No</PreserveTabsAndIndents>
+            </Formatting>
+            <Separators UseDefault="Yes">
+                <Before Type=""/>
+                <Between Type=""/>
+                <AfterOverride Use="No" Type=""/>
+            </Separators>
+        </Layout>
+    </SectionLayouts>
+    <SeparatorSettings>
+        <FolderSeparators>
+            <Before Type="PageBreak"/>
+            <Between Type="PageBreak"/>
+            <AfterOverride Use="No" Type="Double"/>
+        </FolderSeparators>
+        <TextSeparators>
+            <Before Type="Double"/>
+            <Between Type="Double"><![CDATA[#]]></Between>
+            <AfterOverride Use="No" Type="PageBreak"/>
+        </TextSeparators>
+        <Font Size="13.0" Override="No">Palatino</Font>
+    </SeparatorSettings>
+    <Transformations>
+        <RemoveSmartPunctuation>Yes</RemoveSmartPunctuation>
+        <PlainTextConversion State="Off"/>
+        <ConvertItalicsToUnderline>Yes</ConvertItalicsToUnderline>
+        <OutlineIndent State="Off"/>
+    </Transformations>
+    <Tables>
+        <ConvertToImages MaxWidth="600.0">No</ConvertToImages>
+    </Tables>
+    <FootnotesAndComments>
+        <Footnotes>
+            <Font Size="12.0" Override="No">Courier New</Font>
+            <DividerStyle>Default</DividerStyle>
+            <FootnoteStyle>Arabic</FootnoteStyle>
+            <EndnoteStyle>Arabic</EndnoteStyle>
+            <Numbering>Continuous</Numbering>
+            <EndnotesArrangement>
+                <Placement>End</Placement>
+                <SectionGrouping>
+                    <Font Size="0.0"/>
+                </SectionGrouping>
+            </EndnotesArrangement>
+        </Footnotes>
+        <Comments>
+            <AnnotationsRTFType>Comments</AnnotationsRTFType>
+            <AnnotationPrefix><![CDATA[[]]></AnnotationPrefix>
+            <AnnotationSuffix><![CDATA[]]]></AnnotationSuffix>
+        </Comments>
+    </FootnotesAndComments>
+    <PageSettings UseDefaultPaperSize="Yes">
+        <PrintSettings PaperSize="612.0,792.0" LeftMargin="0.0" RightMargin="0.0" TopMargin="0.0" BottomMargin="0.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+        <Margins Units="Points">
+            <Top>72.0</Top>
+            <Bottom>72.0</Bottom>
+            <Left>72.0</Left>
+            <Right>72.0</Right>
+        </Margins>
+        <HeadersAndFooters>
+            <HeaderFont Size="12.0">Courier New</HeaderFont>
+            <FooterFont Size="12.0">Courier New</FooterFont>
+            <CountFirstPages>Yes</CountFirstPages>
+            <FirstRegularPage>-1</FirstRegularPage>
+            <StandardHeader>
+                <Right><![CDATA[<$abbr_title>/<$surname>      <$p>]]></Right>
+            </StandardHeader>
+            <StandardFooter/>
+            <FirstPagesHeader/>
+            <FirstPagesFooter/>
+            <RectoHeader/>
+            <RectoFooter/>
+            <NewSectionHeader/>
+            <NewSectionFooter/>
+            <BackMatterHeader/>
+            <BackMatterFooter/>
+        </HeadersAndFooters>
+    </PageSettings>
+    <RTF>
+        <Columns Location="" Number="2" TwipsBetween="360"/>
+    </RTF>
+    <ScriptFormats>
+        <SummaryFont Size="0.0"/>
+        <ScriptNoteFont Size="0.0"/>
+    </ScriptFormats>
+    <HTML>
+        <UseCenteredBodyTable Width="0">No</UseCenteredBodyTable>
+    </HTML>
+    <MMD>
+        <LaTeXDocumentClass>Memoir</LaTeXDocumentClass>
+    </MMD>
+    <EBookSettings/>
+</CompileFormat>

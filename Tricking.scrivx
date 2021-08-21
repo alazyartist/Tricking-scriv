@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="Dylans-MacBook-Pro" Author="Dylan  James" Modified="2021-08-20 19:37:09 -0600" ModID="0E0D810A-67AA-4E92-8B0A-FA9B2657B2D2">
+    <Binder>
+        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 10:27:29 -0700" Modified="2007-03-25 16:00:41 -0600">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>96D2CA50-66EF-4AA2-AA05-958087E96DF8</SelectedSubdocumentUUIDs>
+                <OutlinerExpandedState>
+                    <ItemID>D7750878-3522-4725-8CF0-30577022B1BA</ItemID>
+                    <ItemID>96D2CA50-66EF-4AA2-AA05-958087E96DF8</ItemID>
+                </OutlinerExpandedState>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="E683CB63-AE18-404F-B233-CC8825D76E0D" Type="Folder" Created="2014-05-10 18:45:48 -0600" Modified="2021-05-09 18:59:44 -0600">
+                    <Title>Front Matter</Title>
+                    <MetaData>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Front Matter</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>10F8E55A-B584-4B82-A308-C7D44200A058</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="0677725D-2DC3-4BE8-9C6B-8AECD0CF4148" Type="Text" Created="2015-09-23 19:40:00 -0600" Modified="2021-03-01 12:50:58 -0700">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <SectionType>44D43338-C76D-41C7-AD46-20178FE8ADE9</SectionType>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>64,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="10F8E55A-B584-4B82-A308-C7D44200A058" Type="Text" Created="2011-07-07 11:49:22 -0600" Modified="2021-08-09 18:19:04 -0600">
+                            <Title>Foreword</Title>
+                            <MetaData>
+                                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>6114,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9CCD51B4-8504-44BB-84DE-B9075ABFC0B9" Type="Text" Created="2020-05-22 01:47:25 -0600" Modified="2021-02-27 13:53:01 -0700">
+                            <Title>Disclaimer</Title>
+                            <MetaData>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>131,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D1E1A0C5-717C-4AD5-95E2-B886C7C0677B" Type="Text" Created="2011-07-07 11:58:53 -0600" Modified="2021-02-27 13:52:47 -0700">
+                            <Title>Contents</Title>
+                            <MetaData>
+                                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>21,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="0E9754AB-6292-4FDF-A6F5-29E24FC388D9" Type="Folder" Created="2006-11-04 10:31:13 -0700" Modified="2021-02-08 12:14:08 -0700">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="AA5EFEAB-5761-4DC4-8E5B-3E4E7C2DC609" Type="Text" Created="2006-11-04 10:33:03 -0700" Modified="2021-07-24 21:21:43 -0600">
+                            <Title>Intro</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="659A9C4D-499B-44EE-B2FD-670EFD5C0036" Type="Text" Created="2021-03-03 09:32:17 -0700" Modified="2021-07-24 21:25:28 -0600">
+                            <Title>Each Path to Tricking is Unique</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>2271,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0AA11A09-5232-4B57-9378-E6C439B551EF" Type="Text" Created="2021-02-28 16:23:40 -0700" Modified="2021-03-06 14:47:37 -0700">
+                            <Title>Special to Us</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1051,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D7750878-3522-4725-8CF0-30577022B1BA" Type="Folder" Created="2020-12-12 13:32:41 -0700" Modified="2021-02-28 12:54:26 -0700">
+                    <Title>Tricking</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>ECE74EDD-ECD2-4AAA-9C2A-85C858BBC4E4</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="96D2CA50-66EF-4AA2-AA05-958087E96DF8" Type="Folder" Created="2021-02-28 01:01:16 -0700" Modified="2021-02-28 12:54:30 -0700">
+                            <Title>What People Think it Is</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="CF441B33-41CB-4107-B398-A4D738B82D53" Type="Text" Created="2021-02-28 01:04:12 -0700" Modified="2021-03-07 18:02:43 -0700">
+                                    <Title>Ask a Tricker</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A134D298-4D4A-43AD-B8AE-ADDF10020857" Type="Text" Created="2021-02-28 01:00:33 -0700" Modified="2021-03-28 19:23:11 -0600">
+                                    <Title>Initial Encounter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6B8FCF6A-A4D2-44D9-BD5E-A59D508E5B20" Type="Text" Created="2021-03-04 18:25:35 -0700" Modified="2021-03-18 00:01:12 -0600">
+                                    <Title>Reflecting</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FDDA4961-EC07-47B8-8F68-53DC2488ABC1" Type="Text" Created="2021-03-10 00:26:23 -0700" Modified="2021-03-18 00:01:27 -0600">
+                                    <Title>Adding Detail</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AA45ABB8-7786-48CE-A1FF-B90E52BF0533" Type="Text" Created="2021-03-04 22:32:17 -0700" Modified="2021-07-24 21:40:10 -0600">
+                                    <Title>Simple Trick Breakdown: Hook Kick</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>825,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7C58741A-5CF2-4104-9E55-237DFE7ED408" Type="Text" Created="2021-03-05 00:20:27 -0700" Modified="2021-07-24 21:41:45 -0600">
+                                    <Title>Performing a Hook Kick</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>808,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5774797B-2C47-4F0D-ACD3-80C26257987C" Type="Text" Created="2021-03-18 00:44:17 -0600" Modified="2021-07-24 22:02:07 -0600">
+                                    <Title>Evolution of Tricking</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>2,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F5B2CB84-6F14-43A9-BF0B-FFB7C11A50DF" Type="Text" Created="2021-05-24 17:06:28 -0600" Modified="2021-07-24 22:07:19 -0600">
+                                    <Title>Caveat about Terms</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CD875888-78B3-468F-861C-6C07460377E7" Type="Text" Created="2021-02-28 01:03:00 -0700" Modified="2021-07-24 22:25:38 -0600">
+                                    <Title>Exploring Terminology</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>2009,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E968C214-F8E0-4A10-B958-CFADA3451AE9" Type="Text" Created="2021-03-16 21:22:27 -0600" Modified="2021-03-16 22:17:02 -0600">
+                                    <Title>Terms</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="32C30563-1312-44AE-8900-EF5488FCBA32" Type="Text" Created="2021-03-05 18:45:10 -0700" Modified="2021-03-10 00:39:01 -0700">
+                                    <Title>DOM (Direction of Movement/Momentum)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="46CBA9E8-BB66-4398-8131-A8146FBD01C9" Type="Text" Created="2020-05-22 01:16:10 -0600" Modified="2021-03-04 19:15:21 -0700">
+                                    <Title>What People Think It Is</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="508E7F74-EB15-4968-8AF4-73864ED118B8" Type="Text" Created="2020-12-12 13:33:24 -0700" Modified="2021-02-08 12:20:22 -0700">
+                            <Title>What Trickers Think It Is</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CBC3B976-6349-444D-BB84-399364C843C9" Type="Text" Created="2020-12-12 13:33:54 -0700" Modified="2021-02-08 12:14:08 -0700">
+                            <Title>What it really is</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="CB7CD1D9-F029-497B-A24F-F66E185DE135" Type="Text" Created="2021-05-31 13:07:54 -0600" Modified="2021-06-04 10:36:20 -0600">
+                    <Title>Glossary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3936,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B54AB68B-D933-459B-84CD-FEA95A47B22C" Type="Text" Created="2010-10-01 13:05:21 -0600" Modified="2021-03-01 12:36:21 -0700">
+                    <Title>Endnotes</Title>
+                    <MetaData>
+                        <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>96,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="1EA4671A-226E-4DFC-B501-6A0E7FDA5205" Type="Folder" Created="2010-10-29 12:50:27 -0600" Modified="2020-05-22 22:48:14 -0600">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Blue Notepad).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="E4D250BF-8047-4F88-BE3A-F9D65F8DA7E9" Type="Folder" Created="2010-10-29 13:14:01 -0600" Modified="2020-05-22 22:48:14 -0600">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Light Bulb.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>2A5EB0EA-D269-47C0-BA90-D11031097BBB</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="35227ED1-D549-4F96-964E-8A13456B99A9" Type="Text" Created="2021-05-11 20:09:42 -0600" Modified="2021-06-01 00:04:59 -0600">
+                    <Title>TrickTheory Glossary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1401,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7EAF983B-D26F-4745-B7B9-16DD67773C4C" Type="Text" Created="2021-05-30 11:34:56 -0600" Modified="2021-06-01 15:39:41 -0600">
+                    <Title>Exploring Terminology</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>149,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="106086A3-2FDD-4E0D-989A-573126CB5881" Type="Text" Created="2021-03-07 18:34:08 -0700" Modified="2021-05-09 23:24:59 -0600">
+                    <Title>Tricking</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1860,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="E683CB63-AE18-404F-B233-CC8825D76E0D"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="A419387C-16ED-48CC-835A-C0E2A70A92DC" Type="Text" Created="2021-05-08 10:05:28 -0600" Modified="2021-05-08 17:56:12 -0600">
+                    <Title>Dan Perez - 1999</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1023,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1C403700-0CE8-4893-A923-4806A75413B0" Type="Text" Created="2021-05-29 13:16:11 -0600" Modified="2021-05-29 13:39:07 -0600">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>936,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2EE3E1BC-B83A-4232-81BF-A9C7FB392C71" Type="Text" Created="2021-05-24 13:41:06 -0600" Modified="2021-05-24 13:46:44 -0600">
+                    <Title>Loopkicks Mark Rusamantijo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>106,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="46E30D77-2DA0-4954-8648-E410F3C13E2B" Type="Text" Created="2021-05-10 02:15:26 -0600" Modified="2021-05-10 09:32:01 -0600">
+                    <Title>Ish Payne - Martial posture</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>312,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F0A11A48-DACA-4868-9A26-041005D41536" Type="Text" Created="2020-05-22 01:08:40 -0600" Modified="2021-03-04 18:22:23 -0700">
+                    <Title>Main Topics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2A5EB0EA-D269-47C0-BA90-D11031097BBB" Type="Text" Created="2020-12-27 13:42:10 -0700" Modified="2021-02-28 01:49:19 -0700">
+                    <Title>What Problem Does It Solve</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>621,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1FA22FBB-0F59-49E9-9E40-CCE5518CA966" Type="Text" Created="2020-05-22 01:30:25 -0600" Modified="2021-02-13 20:03:30 -0700">
+                    <Title>Comunity</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>87,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="F0A11A48-DACA-4868-9A26-041005D41536"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="EEEF90EC-A1C1-417D-B34B-DB56113DED6B" Type="Text" Created="2020-05-22 01:16:28 -0600" Modified="2021-02-13 20:03:30 -0700">
+                    <Title>Why does it matter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>102,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7498C2F2-9103-49CD-9A40-E3627FE63A33" Type="Text" Created="2020-05-22 01:16:44 -0600" Modified="2021-03-07 18:41:11 -0700">
+                    <Title>Flow</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>979,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="60FBB14B-A4E2-47E8-8E7C-F605C121EB92" Type="Text" Created="2020-05-22 01:32:51 -0600" Modified="2021-05-17 18:01:57 -0600">
+                    <Title>Toolbox for life</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>411,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9575ABB4-FC5C-4E58-87C7-864C4857740B" Type="Text" Created="2020-05-25 21:27:44 -0600" Modified="2021-02-13 20:03:30 -0700">
+                    <Title>Timeline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>118,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="92B44B9C-AC1E-45CF-B39D-BC1553ECF81A" Type="Text" Created="2021-05-16 14:46:08 -0600" Modified="2021-05-17 17:46:22 -0600">
+                    <Title>Research Areas for Tricking Analysis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>93,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="89491C59-BBFC-4A32-8C42-371D9DC8897E" Type="ResearchFolder" Created="2006-11-04 10:27:29 -0700" Modified="2006-11-04 10:27:29 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="4BBDD91D-1155-4B22-97DD-D74FBA80A27D" Type="TrashFolder" Created="2006-11-04 10:27:29 -0700" Modified="2006-11-04 10:27:29 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Type="Text" Created="2007-03-25 15:48:19 -0600" Modified="2020-05-22 22:48:14 -0600">
+                    <Title>Non-Fiction Format</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Information.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="41856FE1-17FD-4502-8DD5-0E87CF2BA986" Type="Text" Created="2020-05-22 01:43:30 -0600" Modified="2020-05-22 22:47:57 -0600">
+                    <Title>Comunity-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>26,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D0FB621B-7E7C-4DBE-9A0D-317F7DC79618" Type="Text" Created="2011-07-07 15:35:31 -0600" Modified="2021-02-08 12:17:53 -0700">
+                    <Title>Letter To Trickers</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="487CC564-B5F6-44E3-8C40-C65D1F661C97" Type="Text" Created="2020-05-25 16:26:21 -0600" Modified="2021-02-08 12:14:08 -0700">
+                            <Title>Who was i at the start</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E4037B46-30BE-45C4-AB5A-55C2E4B7B46D" Type="Text" Created="2020-05-25 16:27:29 -0600" Modified="2021-02-08 12:14:08 -0700">
+                            <Title>Who am I now</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F3AF3EF3-AC62-4E80-BB3F-73F0F1191C95" Type="Text" Created="2020-05-25 16:26:36 -0600" Modified="2021-02-08 12:14:08 -0700">
+                            <Title>What did I learn that changed that</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8C2F5FE3-B4CB-4F03-AC33-5830BFB77D13" Type="Text" Created="2020-05-25 16:30:56 -0600" Modified="2021-02-08 12:14:08 -0700">
+                            <Title>Catalyst Moment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="0DE825EB-3332-4E5E-B7DF-387DC78312DD" Type="PDF" Created="2014-05-13 02:59:47 -0600" Modified="2020-05-22 22:48:14 -0600">
+                    <Title>Sample MS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="ECE74EDD-ECD2-4AAA-9C2A-85C858BBC4E4" Type="Text" Created="2021-01-25 23:08:43 -0700" Modified="2021-02-28 01:01:11 -0700">
+                    <Title>First Words</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>176,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9A3896AA-0EF1-41EE-B6AE-0E0B4EA5D23B" Type="Text" Created="2021-03-18 00:46:30 -0600" Modified="2021-03-18 00:46:35 -0600">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="2DBAA742-7235-4FFB-8CEF-8FE8183D106E" Type="Folder" Created="2021-02-08 11:58:53 -0700" Modified="2021-02-08 12:01:06 -0700">
+            <Title>Project Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="26703A43-A1A1-481C-BE55-B20F8F68E1EF" Type="Text" Created="2021-02-08 11:58:53 -0700" Modified="2021-02-08 12:01:06 -0700">
+                    <Title>General</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.133193 0.134456 0.148407">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922176 0.818589 0.999618">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">All</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="E814BA2D-4B34-40AC-BFAA-F4832F28D0B3">Heading</Type>
+            <Type ID="FF95D1C9-3A7C-4957-A3A0-04AF39687274">Sub-Heading</Type>
+            <Type ID="8954C090-476F-42F3-9BA0-2F3A275D2593">Section</Type>
+            <Type ID="4B6F5876-3838-41C8-BF0A-F1C0FED4CB75">Section Start</Type>
+            <Type ID="44D43338-C76D-41C7-AD46-20178FE8ADE9">N/A</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>E814BA2D-4B34-40AC-BFAA-F4832F28D0B3</Type>
+            </Folders>
+            <Containers>
+                <Type>8954C090-476F-42F3-9BA0-2F3A275D2593</Type>
+            </Containers>
+            <Files>
+                <Type>8954C090-476F-42F3-9BA0-2F3A275D2593</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Research</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.0">Chapter</Label>
+            <Label ID="4" Color="0.27451 0.556863 1.0">Sub-Section</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectBookmarks>
+        <Bookmark BinderUUID="26703A43-A1A1-481C-BE55-B20F8F68E1EF"/>
+    </ProjectBookmarks>
+    <ProjectTargets Notify="Yes">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2021-09-05 06:24:39 -0600" IgnoreDeadline="No">100000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2021-08-21 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">4936</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2021-08-20 19:37:07 -0600"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2021-08-20 00:00:00 -0600">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
