@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="Dylans-MacBook-Pro" Author="Dylan  James" Modified="2021-08-20 19:37:09 -0600" ModID="0E0D810A-67AA-4E92-8B0A-FA9B2657B2D2">
+<ScrivenerProject Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Version="2.0" Creator="SCRMAC-3.2.2-14632" Device="Dylans-MacBook-Pro" Author="Dylan  James" Modified="2021-09-02 19:27:27 -0600" ModID="7DFF27C7-3956-4530-B1A1-1090F7D1C48E">
     <Binder>
         <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 10:27:29 -0700" Modified="2007-03-25 16:00:41 -0600">
             <Title>Manuscript</Title>
@@ -287,8 +287,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CBC3B976-6349-444D-BB84-399364C843C9" Type="Text" Created="2020-12-12 13:33:54 -0700" Modified="2021-02-08 12:14:08 -0700">
-                            <Title>What it really is</Title>
+                        <BinderItem UUID="CBC3B976-6349-444D-BB84-399364C843C9" Type="Folder" Created="2020-12-12 13:33:54 -0700" Modified="2021-09-02 19:27:25 -0600">
+                            <Title>What it seems to be</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -296,16 +296,29 @@
                                 <TextMode>Script</TextMode>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="006C8BC8-C859-415A-96EA-D387D9B5ACC4" Type="Text" Created="2020-05-22 01:16:10 -0600" Modified="2021-09-02 19:27:18 -0600">
+                                    <Title>What it seems to be</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>67,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="CB7CD1D9-F029-497B-A24F-F66E185DE135" Type="Text" Created="2021-05-31 13:07:54 -0600" Modified="2021-06-04 10:36:20 -0600">
+                <BinderItem UUID="CB7CD1D9-F029-497B-A24F-F66E185DE135" Type="Text" Created="2021-05-31 13:07:54 -0600" Modified="2021-09-02 18:50:33 -0600">
                     <Title>Glossary</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3936,0</TextSelection>
+                        <TextSelection>4212,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B54AB68B-D933-459B-84CD-FEA95A47B22C" Type="Text" Created="2010-10-01 13:05:21 -0600" Modified="2021-03-01 12:36:21 -0700">
@@ -344,13 +357,13 @@
                 <SelectedSubdocumentUUIDs>2A5EB0EA-D269-47C0-BA90-D11031097BBB</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="35227ED1-D549-4F96-964E-8A13456B99A9" Type="Text" Created="2021-05-11 20:09:42 -0600" Modified="2021-06-01 00:04:59 -0600">
+                <BinderItem UUID="35227ED1-D549-4F96-964E-8A13456B99A9" Type="Text" Created="2021-05-11 20:09:42 -0600" Modified="2021-09-02 19:05:55 -0600">
                     <Title>TrickTheory Glossary</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1401,0</TextSelection>
+                        <TextSelection>3609,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="7EAF983B-D26F-4745-B7B9-16DD67773C4C" Type="Text" Created="2021-05-30 11:34:56 -0600" Modified="2021-06-01 15:39:41 -0600">
@@ -454,7 +467,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>979,0</TextSelection>
+                        <TextSelection>707,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="60FBB14B-A4E2-47E8-8E7C-F605C121EB92" Type="Text" Created="2020-05-22 01:32:51 -0600" Modified="2021-05-17 18:01:57 -0600">
@@ -594,6 +607,26 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="497CC1EF-A00A-4FEF-B881-2608C1EB5E55" Type="Text" Created="2021-09-02 19:00:50 -0600" Modified="2021-09-02 19:06:34 -0600">
+                    <Title>An exploration of self and space through movement</Title>
+                    <MetaData>
+                        <SectionType>8954C090-476F-42F3-9BA0-2F3A275D2593</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="972AF624-3958-432B-BF44-A3525F006650" Type="Text" Created="2021-09-02 19:08:22 -0600" Modified="2021-09-02 19:08:31 -0600">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>3,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="2DBAA742-7235-4FFB-8CEF-8FE8183D106E" Type="Folder" Created="2021-02-08 11:58:53 -0700" Modified="2021-02-08 12:01:06 -0700">
@@ -677,14 +710,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2021-09-05 06:24:39 -0600" IgnoreDeadline="No">100000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2021-08-21 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">4936</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-08-20 19:37:07 -0600"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2021-09-03 01:00:00 -0600" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">20978</SessionTarget>
+        <PreviousSession Words="9" Characters="48" Date="2021-09-02 18:42:22 -0600"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-08-20 00:00:00 -0600">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2021-09-02 00:00:00 -0600">
+        <DraftWordCount>-38</DraftWordCount>
+        <DraftCharCount>-240</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>1</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
