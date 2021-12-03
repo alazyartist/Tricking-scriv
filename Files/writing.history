@@ -95,4 +95,13 @@
     <Day dwc="446" dcc="2534" dtwc="24677" owc="43" occ="299" dtcc="143662" s="1849" st="w">2021-11-14</Day>
     <Day dwc="610" dcc="3437" dtwc="25287" owc="24" occ="197" dtcc="147099" s="1884" st="w">2021-11-15</Day>
     <Day dwc="1" dcc="1" owc="0" occ="0" s="1967" st="w">2021-11-17</Day>
+    <Day dwc="1" dcc="8" dtwc="25289" owc="155" occ="1033" dtcc="147108" s="2135" st="w">2021-11-20</Day>
+    <Day dwc="0" dcc="0" owc="0" occ="1" s="2198" st="w">2021-11-21</Day>
+    <Day dwc="425" dcc="2505" dtwc="25714" owc="0" occ="0" dtcc="149610" s="2264" st="w">2021-11-22</Day>
+    <Day dwc="114" dcc="577" dtwc="25828" owc="0" occ="2" dtcc="150187" s="2322" st="w">2021-11-23</Day>
+    <Day dwc="558" dcc="3026" dtwc="26386" owc="0" occ="0" dtcc="153213" s="2473" st="w">2021-11-25</Day>
+    <Day dwc="-38" dcc="-229" dtwc="26348" owc="0" occ="0" dtcc="152984" s="2539" st="w">2021-11-26</Day>
+    <Day dwc="242" dcc="1370" dtwc="26590" owc="0" occ="0" dtcc="154352" s="2947" st="w">2021-11-30</Day>
+    <Day dwc="885" dcc="5013" dtwc="27044" owc="0" occ="0" dtcc="156951" s="3059" st="w">2021-12-01</Day>
+    <Day dwc="1" dcc="7" owc="0" occ="0" s="3172" st="w">2021-12-02</Day>
 </WritingHistory>
