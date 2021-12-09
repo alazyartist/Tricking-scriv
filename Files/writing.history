@@ -103,5 +103,7 @@
     <Day dwc="-38" dcc="-229" dtwc="26348" owc="0" occ="0" dtcc="152984" s="2539" st="w">2021-11-26</Day>
     <Day dwc="242" dcc="1370" dtwc="26590" owc="0" occ="0" dtcc="154352" s="2947" st="w">2021-11-30</Day>
     <Day dwc="885" dcc="5013" dtwc="27044" owc="0" occ="0" dtcc="156951" s="3059" st="w">2021-12-01</Day>
-    <Day dwc="1" dcc="7" owc="0" occ="0" s="3172" st="w">2021-12-02</Day>
+    <Day dwc="519" dcc="2884" dtwc="27106" owc="0" occ="0" dtcc="157308" s="3172" st="w">2021-12-02</Day>
+    <Day dwc="2" dcc="11" dtwc="27108" owc="0" occ="0" dtcc="157319" s="3472" st="w">2021-12-04</Day>
+    <Day dwc="1801" dcc="10331" dtwc="28909" owc="0" occ="1" dtcc="167650" s="4288" st="w">2021-12-08</Day>
 </WritingHistory>
