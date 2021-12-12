@@ -106,4 +106,7 @@
     <Day dwc="519" dcc="2884" dtwc="27106" owc="0" occ="0" dtcc="157308" s="3172" st="w">2021-12-02</Day>
     <Day dwc="2" dcc="11" dtwc="27108" owc="0" occ="0" dtcc="157319" s="3472" st="w">2021-12-04</Day>
     <Day dwc="1801" dcc="10331" dtwc="28909" owc="0" occ="1" dtcc="167650" s="4288" st="w">2021-12-08</Day>
+    <Day dwc="159" dcc="936" dtwc="29068" owc="0" occ="0" dtcc="168586" s="4288" st="w">2021-12-09</Day>
+    <Day dwc="686" dcc="4092" dtwc="29754" owc="0" occ="0" dtcc="172678" s="4729" st="w">2021-12-10</Day>
+    <Day dwc="0" dcc="1" owc="0" occ="0" s="5018" st="w">2021-12-11</Day>
 </WritingHistory>
