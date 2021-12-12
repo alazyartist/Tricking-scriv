@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.1.0" Device="Dylan-ZBook" Modified="2021-12-11 23:04:24 -0700" ModID="32B87F2C-BAD2-481E-AD1E-5B01E1EFB716">
+<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.1.0" Device="Dylan-ZBook" Modified="2021-12-12 02:11:47 -0700" ModID="81B7CEFA-067C-4978-8AD0-205B5D29E189">
     <Binder>
-        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 11:27:29 -0700" Modified="2021-12-11 22:59:12 -0700">
+        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 11:27:29 -0700" Modified="2021-12-12 01:45:21 -0700">
             <Title>Manuscript: Front Matter</Title>
             <MetaData>
                 <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
@@ -16,6 +16,9 @@
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>A8524D2B-9736-46FF-89E8-FA64AC4B0977</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>A35F0B27-FE8C-4FA4-9988-3BC31A9DB613</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>6E2CA2A6-3252-4CFF-AB4C-D5229B2DB0C8</ItemID>
@@ -458,6 +461,26 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="83F4F76C-9CD5-459B-9CB4-0459A6E658A0" Type="Text" Created="2021-12-11 23:07:32 -0700" Modified="2021-12-12 00:21:32 -0700">
+                                            <Title>Culture</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>6737,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="DEF2C780-3913-41AC-8EB5-1B5AF777A3C2" Type="Text" Created="2021-12-12 00:22:04 -0700" Modified="2021-12-12 02:07:39 -0700">
+                                            <Title>Who We Are is the Offer</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>9330,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -1214,14 +1237,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2022-01-13 00:00:00 -0700" IgnoreDeadline="No">100000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">2066</SessionTarget>
-        <PreviousSession Words="1505" Characters="9111" Date="2021-12-11 23:04:24 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">2065</SessionTarget>
+        <PreviousSession Words="2128" Characters="12093" Date="2021-12-12 02:11:47 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-12-11 00:00:00 -0700">
-        <DraftWordCount>1505</DraftWordCount>
-        <DraftCharCount>9111</DraftCharCount>
-        <OtherWordCount>132</OtherWordCount>
-        <OtherCharCount>958</OtherCharCount>
+    <RecentWritingHistory Date="2021-12-12 00:00:00 -0700">
+        <DraftWordCount>2129</DraftWordCount>
+        <DraftCharCount>12101</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
