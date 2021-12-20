@@ -109,5 +109,11 @@
     <Day dwc="159" dcc="936" dtwc="29068" owc="0" occ="0" dtcc="168586" s="4288" st="w">2021-12-09</Day>
     <Day dwc="686" dcc="4092" dtwc="29754" owc="0" occ="0" dtcc="172678" s="4729" st="w">2021-12-10</Day>
     <Day dwc="2166" dcc="13049" dtwc="31883" owc="132" occ="958" dtcc="185501" s="2066" st="w">2021-12-11</Day>
-    <Day dwc="1" dcc="8" owc="0" occ="0" s="2065" st="w">2021-12-12</Day>
+    <Day dwc="2415" dcc="13751" dtwc="34298" owc="0" occ="0" dtcc="199252" s="2065" st="w">2021-12-12</Day>
+    <Day dwc="0" dcc="-1" dtwc="34298" owc="0" occ="0" dtcc="199251" s="2120" st="w">2021-12-14</Day>
+    <Day dwc="421" dcc="2308" dtwc="34719" owc="0" occ="0" dtcc="201559" s="2191" st="w">2021-12-15</Day>
+    <Day dwc="36" dcc="237" dtwc="34755" owc="0" occ="0" dtcc="201796" s="2191" st="w">2021-12-16</Day>
+    <Day dwc="526" dcc="3084" dtwc="35281" owc="0" occ="0" dtcc="204880" s="2331" st="w">2021-12-17</Day>
+    <Day dwc="628" dcc="3678" dtwc="35909" owc="0" occ="0" dtcc="208558" s="2397" st="w">2021-12-18</Day>
+    <Day dwc="1404" dcc="7789" dtwc="37313" owc="0" occ="0" dtcc="216347" s="2466" st="w">2021-12-19</Day>
 </WritingHistory>
