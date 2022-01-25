@@ -41,9 +41,7 @@
         </Options>
         <MetaData>
             <ProjectAbbreviatedTitle>&lt;$template_projectName&gt;</ProjectAbbreviatedTitle>
-            <Surname>&lt;$template_lastName&gt;</Surname>
-            <Forename>&lt;$template_firstName&gt;</Forename>
-            <EbookLanguage>English</EbookLanguage>
+            <EbookLanguage>en</EbookLanguage>
             <FountainTitlePageMetaData>
                 <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
                 <Value Key="Author"><![CDATA[<$author>]]></Value>
@@ -61,9 +59,25 @@
                 <DefaultFrontMatter Add="Yes">E683CB63-AE18-404F-B233-CC8825D76E0D</DefaultFrontMatter>
             </FrontAndBackMatter>
         </Format>
+        <Format ID="paperback-6x9">
+            <Font>Cascadia Mono</Font>
+            <SectionLayouts>
+                <Type ID="4B6F5876-3838-41C8-BF0A-F1C0FED4CB75">21A46E64-6A8C-43C7-A721-81184399E77B</Type>
+                <Type ID="8954C090-476F-42F3-9BA0-2F3A275D2593">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="E814BA2D-4B34-40AC-BFAA-F4832F28D0B3">DC460EDE-9743-4708-A4E8-B101EAD328E4</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="9B434268-819E-4A32-AA73-DDA9099C7543">
+            <Font>Cascadia Mono</Font>
+            <SectionLayouts>
+                <Type ID="4B6F5876-3838-41C8-BF0A-F1C0FED4CB75">21A46E64-6A8C-43C7-A721-81184399E77B</Type>
+                <Type ID="8954C090-476F-42F3-9BA0-2F3A275D2593">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="E814BA2D-4B34-40AC-BFAA-F4832F28D0B3">DC460EDE-9743-4708-A4E8-B101EAD328E4</Type>
+            </SectionLayouts>
+        </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>7728A967-9262-4A1C-9A94-C352518B44A3</Print>
-        <pdf>paperback-novel</pdf>
+        <pdf>9B434268-819E-4A32-AA73-DDA9099C7543</pdf>
     </LastUsedFormats>
 </CompileSettings>

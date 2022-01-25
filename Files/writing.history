@@ -116,4 +116,22 @@
     <Day dwc="526" dcc="3084" dtwc="35281" owc="0" occ="0" dtcc="204880" s="2331" st="w">2021-12-17</Day>
     <Day dwc="628" dcc="3678" dtwc="35909" owc="0" occ="0" dtcc="208558" s="2397" st="w">2021-12-18</Day>
     <Day dwc="1404" dcc="7789" dtwc="37313" owc="0" occ="0" dtcc="216347" s="2466" st="w">2021-12-19</Day>
+    <Day dwc="556" dcc="3034" dtwc="37869" owc="0" occ="0" dtcc="219381" s="2612" st="w">2021-12-21</Day>
+    <Day dwc="690" dcc="3984" dtwc="38559" owc="0" occ="0" dtcc="223365" s="2825" st="w">2021-12-23</Day>
+    <Day dwc="933" dcc="5227" dtwc="39492" owc="0" occ="0" dtcc="228563" s="2926" st="w">2021-12-24</Day>
+    <Day dwc="700" dcc="3949" dtwc="39382" owc="0" occ="0" dtcc="227958" s="3607" st="w">2021-12-28</Day>
+    <Day dwc="-45" dcc="-296" dtwc="38285" owc="0" occ="0" dtcc="222001" s="1991" st="w">2022-01-01</Day>
+    <Day dwc="47" dcc="238" dtwc="38332" owc="0" occ="0" dtcc="222239" s="2129" st="w">2022-01-03</Day>
+    <Day dwc="635" dcc="3752" dtwc="38967" owc="0" occ="0" dtcc="225991" s="2284" st="w">2022-01-05</Day>
+    <Day dwc="241" dcc="1278" dtwc="39208" owc="0" occ="0" dtcc="227269" s="2442" st="w">2022-01-07</Day>
+    <Day dwc="805" dcc="4663" dtwc="41184" owc="0" occ="0" dtcc="238242" s="2592" st="w">2022-01-09</Day>
+    <Day dwc="86" dcc="533" dtwc="41270" owc="0" occ="0" dtcc="238775" s="2674" st="w">2022-01-10</Day>
+    <Day dwc="274" dcc="1633" dtwc="41544" owc="0" occ="0" dtcc="240408" s="2674" st="w">2022-01-11</Day>
+    <Day dwc="109" dcc="684" dtwc="41653" owc="0" occ="0" dtcc="241092" s="2674" st="w">2022-01-12</Day>
+    <Day dwc="0" dcc="1" dtwc="41653" owc="0" occ="0" dtcc="241093" s="3242" st="w">2022-01-14</Day>
+    <Day dwc="64" dcc="372" dtwc="41717" owc="0" occ="0" dtcc="241465" s="3890" st="w">2022-01-17</Day>
+    <Day dwc="0" dcc="-3" owc="0" occ="0" s="3890" st="w">2022-01-18</Day>
+    <Day dwc="90" dcc="606" dtwc="41807" owc="0" occ="0" dtcc="242068" s="5829" st="w">2022-01-22</Day>
+    <Day dwc="159" dcc="943" dtwc="41966" owc="0" occ="0" dtcc="243011" s="6466" st="w">2022-01-23</Day>
+    <Day dwc="0" dcc="1" owc="0" occ="0" s="7255" st="w">2022-01-24</Day>
 </WritingHistory>
