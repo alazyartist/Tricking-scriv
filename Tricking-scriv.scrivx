@@ -1,45 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.1.0" Device="Dylan-ZBook" Modified="2022-01-24 20:37:07 -0700" ModID="289297F7-F4BB-4847-80A3-4A74BB82BA2C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.1.0" Device="Dylan-ZBook" Modified="2022-01-27 22:04:04 -0700" ModID="598E5F73-5BF9-421B-B1A8-6D8570BD527E">
     <Binder>
-        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 11:27:29 -0700" Modified="2021-12-24 16:38:53 -0700">
+        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 11:27:29 -0700" Modified="2022-01-27 20:26:27 -0700">
             <Title>Manuscript: Front Matter</Title>
             <MetaData>
                 <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>CB7CD1D9-F029-497B-A24F-F66E185DE135</SelectedSubdocumentUUIDs>
-                <OutlinerExpandedState>
-                    <ItemID>A8524D2B-9736-46FF-89E8-FA64AC4B0977</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>9C5B6033-85F0-4D44-AA6F-25B046A53462</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>A35F0B27-FE8C-4FA4-9988-3BC31A9DB613</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>E9BFC316-AF6F-4CF0-881B-D1A8E3D10E97</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>6C7BA207-2625-4256-9D03-C32677F7B614</ItemID>
-                </OutlinerExpandedState>
+                <SelectedSubdocumentUUIDs>CBC3B976-6349-444D-BB84-399364C843C9</SelectedSubdocumentUUIDs>
                 <OutlinerExpandedState>
                     <ItemID>0E9754AB-6292-4FDF-A6F5-29E24FC388D9</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>96D2CA50-66EF-4AA2-AA05-958087E96DF8</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>37D95603-FE2F-4805-8D55-929C6318E876</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>6E2CA2A6-3252-4CFF-AB4C-D5229B2DB0C8</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>B209DF4E-5025-4C68-8A1A-6A1BEDE05E4D</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>73E7825C-8FA5-45E4-B88F-BEE8CB786D6C</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>E683CB63-AE18-404F-B233-CC8825D76E0D</ItemID>
@@ -52,9 +25,6 @@
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>508E7F74-EB15-4968-8AF4-73864ED118B8</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>D49125EC-80F0-4361-B5C5-08679992E52B</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>01A45120-9632-42BE-BF39-516A4EF432A6</ItemID>
@@ -376,7 +346,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="A8524D2B-9736-46FF-89E8-FA64AC4B0977" Type="Folder" Created="2021-10-27 15:30:27 -0700" Modified="2022-01-01 18:24:33 -0700">
+                                <BinderItem UUID="A8524D2B-9736-46FF-89E8-FA64AC4B0977" Type="Folder" Created="2021-10-27 15:30:27 -0700" Modified="2022-01-27 21:38:37 -0700">
                                     <Title>Terminology and Technicals</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -435,7 +405,7 @@
                                                 <TextSelection>5359,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="01A45120-9632-42BE-BF39-516A4EF432A6" Type="Folder" Created="2021-10-27 12:54:23 -0700" Modified="2022-01-15 13:07:53 -0700">
+                                        <BinderItem UUID="01A45120-9632-42BE-BF39-516A4EF432A6" Type="Folder" Created="2021-10-27 12:54:23 -0700" Modified="2022-01-27 21:38:37 -0700">
                                             <Title>Paramaters of Tricking</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -680,13 +650,13 @@
                                                 <TextSelection>9260,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="94C95DAC-8EE5-4FC3-9331-221E3D422626" Type="Text" Created="2022-01-12 19:24:41 -0700" Modified="2022-01-12 20:29:47 -0700">
+                                        <BinderItem UUID="94C95DAC-8EE5-4FC3-9331-221E3D422626" Type="Text" Created="2022-01-12 19:24:41 -0700" Modified="2022-01-27 18:42:14 -0700">
                                             <Title>Unspoken Langauge</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>274,0</TextSelection>
+                                                <TextSelection>2117,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -720,6 +690,26 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>8136,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="FFC6E4BD-67C8-4A2B-B2B2-75D1419D2D9A" Type="Folder" Created="2022-01-27 21:45:45 -0700" Modified="2022-01-27 21:45:58 -0700">
+                                    <Title>Death</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="5BAAC07E-605C-423C-816B-1BEC57C857B6" Type="Text" Created="2022-01-27 21:46:03 -0700" Modified="2022-01-27 21:54:14 -0700">
+                                            <Title>Death of an Era</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>773,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -888,13 +878,22 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="8DBD1AA8-73EF-4A16-9631-B708684C05ED" Type="Text" Created="2022-01-05 23:11:28 -0700" Modified="2022-01-24 20:12:23 -0700">
+                                        <BinderItem UUID="8DBD1AA8-73EF-4A16-9631-B708684C05ED" Type="Text" Created="2022-01-05 23:11:28 -0700" Modified="2022-01-27 18:05:23 -0700">
                                             <Title>What is Flow</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4556,0</TextSelection>
+                                                <TextSelection>5764,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="CF2EF439-4271-46EF-A8C0-3814C4895599" Type="Text" Created="2022-01-27 13:06:31 -0700" Modified="2022-01-27 15:10:11 -0700">
+                                            <Title>Altered States of Conciousness</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1689,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -910,18 +909,29 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="AC56B36A-47F2-41F7-9A7F-7B5881920A5F" Type="Folder" Created="2021-12-24 15:53:45 -0700" Modified="2022-01-01 17:10:12 -0700">
+                                    <Title>Perspective Shift</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="7F436C62-9FEF-4B32-AD9E-503B571AE86E" Type="Text" Created="2022-01-27 18:48:32 -0700" Modified="2022-01-27 19:09:59 -0700">
+                                            <Title>Impossible just takes longer</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2511,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
                             </Children>
-                        </BinderItem>
-                        <BinderItem UUID="AC56B36A-47F2-41F7-9A7F-7B5881920A5F" Type="Folder" Created="2021-12-24 15:53:45 -0700" Modified="2022-01-01 17:10:12 -0700">
-                            <Title>Perspective Shift</Title>
-                            <MetaData>
-                                <LabelID>2</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CBC3B976-6349-444D-BB84-399364C843C9" Type="Folder" Created="2020-12-12 13:33:54 -0700" Modified="2022-01-01 17:08:50 -0700">
                             <Title>Why is it useful?</Title>
@@ -936,6 +946,16 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="000CB190-77F6-4F9E-B08C-39A6EAF543DB" Type="Folder" Created="2022-01-27 20:30:31 -0700" Modified="2022-01-27 20:46:53 -0700">
+                                    <Title>Metaphor</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextMode>Script</TextMode>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="006C8BC8-C859-415A-96EA-D387D9B5ACC4" Type="Text" Created="2020-05-22 01:16:10 -0700" Modified="2022-01-01 17:08:26 -0700">
                                     <Title>Flow</Title>
                                     <MetaData>
@@ -961,7 +981,7 @@
                                         <TextSelection>18,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1" Type="Text" Created="2021-10-24 19:51:53 -0700" Modified="2022-01-09 14:38:31 -0700">
+                                <BinderItem UUID="8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1" Type="Folder" Created="2021-10-24 19:51:53 -0700" Modified="2022-01-27 20:30:08 -0700">
                                     <Title>Self-Teaching</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -970,23 +990,52 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>3832,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Bookmarks>
                                         <Bookmark BinderUUID="8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1">Self-Teaching</Bookmark>
                                     </Bookmarks>
+                                    <Children>
+                                        <BinderItem UUID="03FD1CF2-971F-4680-960F-E0DE01884054" Type="Text" Created="2022-01-27 20:18:42 -0700" Modified="2022-01-27 20:19:10 -0700">
+                                            <Title>Self-Teaching</Title>
+                                            <MetaData>
+                                                <LabelID>2</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <TextSelection>1,0</TextSelection>
+                                            </TextSettings>
+                                            <Bookmarks>
+                                                <Bookmark BinderUUID="8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1">Self-Teaching</Bookmark>
+                                            </Bookmarks>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem UUID="59D9D85A-0ED2-4896-860E-C1A262CCAA6F" Type="Text" Created="2022-01-09 14:39:56 -0700" Modified="2022-01-12 13:30:23 -0700">
+                                <BinderItem UUID="59D9D85A-0ED2-4896-860E-C1A262CCAA6F" Type="Folder" Created="2022-01-09 14:39:56 -0700" Modified="2022-01-27 20:30:08 -0700">
                                     <Title>Shoulders of Giants</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>6277,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="A2495190-B957-4858-BFF6-F3CAE7BE8FA1" Type="Text" Created="2022-01-27 20:18:02 -0700" Modified="2022-01-27 20:18:26 -0700">
+                                            <Title>Shoulders of Giants</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem UUID="83243A0C-28B6-46D4-B36E-2DE92314854A" Type="Text" Created="2021-10-25 13:27:33 -0700" Modified="2022-01-09 14:41:20 -0700">
+                                <BinderItem UUID="83243A0C-28B6-46D4-B36E-2DE92314854A" Type="Text" Created="2021-10-25 13:27:33 -0700" Modified="2022-01-27 20:30:08 -0700">
                                     <Title>Creative Boundaries</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1001,7 +1050,7 @@
                                         <Bookmark BinderUUID="83243A0C-28B6-46D4-B36E-2DE92314854A">Creative Boundaries</Bookmark>
                                     </Bookmarks>
                                 </BinderItem>
-                                <BinderItem UUID="6DBC90AD-DFE7-42FA-ADB9-B26BB23DF6B2" Type="Text" Created="2021-10-25 13:28:20 -0700" Modified="2022-01-01 17:08:26 -0700">
+                                <BinderItem UUID="6DBC90AD-DFE7-42FA-ADB9-B26BB23DF6B2" Type="Text" Created="2021-10-25 13:28:20 -0700" Modified="2022-01-27 20:30:08 -0700">
                                     <Title>Beyond Tricking</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1376,7 +1425,7 @@
                         <TextSelection>176,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9A3896AA-0EF1-41EE-B6AE-0E0B4EA5D23B" Type="Text" Created="2021-03-18 00:46:30 -0700" Modified="2021-12-02 21:28:23 -0700">
+                <BinderItem UUID="9A3896AA-0EF1-41EE-B6AE-0E0B4EA5D23B" Type="Text" Created="2021-03-18 00:46:30 -0700" Modified="2022-01-27 21:37:43 -0700">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -1385,7 +1434,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="497CC1EF-A00A-4FEF-B881-2608C1EB5E55" Type="Text" Created="2021-09-02 19:00:50 -0700" Modified="2021-12-02 21:28:23 -0700">
+                <BinderItem UUID="497CC1EF-A00A-4FEF-B881-2608C1EB5E55" Type="Text" Created="2021-09-02 19:00:50 -0700" Modified="2022-01-27 21:37:43 -0700">
                     <Title>An exploration of self and space through movement</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1533,12 +1582,12 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2022-02-22 00:00:00 -0700" IgnoreDeadline="No">100000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">1923</SessionTarget>
-        <PreviousSession Words="510" Characters="3010" Date="2022-01-24 20:37:07 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">2131</SessionTarget>
+        <PreviousSession Words="1536" Characters="8821" Date="2022-01-27 22:04:04 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-01-24 00:00:00 -0700">
-        <DraftWordCount>510</DraftWordCount>
-        <DraftCharCount>3010</DraftCharCount>
+    <RecentWritingHistory Date="2022-01-27 00:00:00 -0700">
+        <DraftWordCount>1536</DraftWordCount>
+        <DraftCharCount>8821</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
