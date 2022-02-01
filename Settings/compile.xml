@@ -52,7 +52,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>pdf</CurrentFileType>
+    <CurrentFileType>txt</CurrentFileType>
     <FormatSettings>
         <Format ID="7728A967-9262-4A1C-9A94-C352518B44A3">
             <FrontAndBackMatter>
@@ -79,5 +79,6 @@
     <LastUsedFormats>
         <Print>7728A967-9262-4A1C-9A94-C352518B44A3</Print>
         <pdf>9B434268-819E-4A32-AA73-DDA9099C7543</pdf>
+        <txt>plain-txt-ms</txt>
     </LastUsedFormats>
 </CompileSettings>

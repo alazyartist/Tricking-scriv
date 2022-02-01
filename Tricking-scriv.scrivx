@@ -1,21 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.1.0" Device="Dylan-ZBook" Modified="2022-01-28 18:55:17 -0700" ModID="46B521C0-F867-4807-B710-95D76ABD8822">
+<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.1.0" Device="Dylan-ZBook" Modified="2022-01-31 23:54:26 -0700" ModID="017D0065-CACB-4012-8B15-63BB849848EC">
     <Binder>
-        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 11:27:29 -0700" Modified="2022-01-28 18:31:12 -0700">
+        <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 11:27:29 -0700" Modified="2022-01-30 16:48:17 -0700">
             <Title>Manuscript: Front Matter</Title>
             <MetaData>
                 <SectionType>4B6F5876-3838-41C8-BF0A-F1C0FED4CB75</SectionType>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>000CB190-77F6-4F9E-B08C-39A6EAF543DB</SelectedSubdocumentUUIDs>
+                <SelectedSubdocumentUUIDs>AC56B36A-47F2-41F7-9A7F-7B5881920A5F</SelectedSubdocumentUUIDs>
+                <OutlinerExpandedState>
+                    <ItemID>F5B2CB84-6F14-43A9-BF0B-FFB7C11A50DF</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>F20F1C6E-6F01-48F7-ADED-ABEF6B0BEA2D</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>8FD72400-44B2-4E08-8679-1184BF811546</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>6B8FCF6A-A4D2-44D9-BD5E-A59D508E5B20</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>D8C257EB-7BD5-4298-89C1-FD3E03CCD3C7</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>94C95DAC-8EE5-4FC3-9331-221E3D422626</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>0677725D-2DC3-4BE8-9C6B-8AECD0CF4148</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>006C8BC8-C859-415A-96EA-D387D9B5ACC4</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>A1D732FB-2BCE-466F-8AF5-D26248A4A19E</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>BB4DB1F4-1ACC-462B-A552-50D7A803BDC6</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>01A45120-9632-42BE-BF39-516A4EF432A6</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>CD875888-78B3-468F-861C-6C07460377E7</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>90E7532E-156C-422A-93F5-7C90434B4513</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>0CEA9F9E-8B53-47C0-B633-819D53EB1019</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>AA45ABB8-7786-48CE-A1FF-B90E52BF0533</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>AC56B36A-47F2-41F7-9A7F-7B5881920A5F</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>5BAAC07E-605C-423C-816B-1BEC57C857B6</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>10F8E55A-B584-4B82-A308-C7D44200A058</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>7F436C62-9FEF-4B32-AD9E-503B571AE86E</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>03FD1CF2-971F-4680-960F-E0DE01884054</ItemID>
+                </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>0E9754AB-6292-4FDF-A6F5-29E24FC388D9</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>EED59DE4-1833-4FF1-8569-4B0849E9E3E7</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>D1E1A0C5-717C-4AD5-95E2-B886C7C0677B</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>B54AB68B-D933-459B-84CD-FEA95A47B22C</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>96D2CA50-66EF-4AA2-AA05-958087E96DF8</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
+                    <ItemID>D91EEA08-201D-4B04-9DA8-3BFDA22CB1D7</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>5774797B-2C47-4F0D-ACD3-80C26257987C</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>659A9C4D-499B-44EE-B2FD-670EFD5C0036</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>4F017737-BBE9-4753-B1B9-3B09BC29204D</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>5950EE08-E8D7-463C-B177-81CA5023374F</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>2C54DE70-9872-4619-9C74-01B6525F9B28</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>B209DF4E-5025-4C68-8A1A-6A1BEDE05E4D</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>CF2EF439-4271-46EF-A8C0-3814C4895599</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>37D95603-FE2F-4805-8D55-929C6318E876</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>A134D298-4D4A-43AD-B8AE-ADDF10020857</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>83F4F76C-9CD5-459B-9CB4-0459A6E658A0</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>9CCD51B4-8504-44BB-84DE-B9075ABFC0B9</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>6E2CA2A6-3252-4CFF-AB4C-D5229B2DB0C8</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>000CB190-77F6-4F9E-B08C-39A6EAF543DB</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>1C5D4EAB-60FA-42FD-ADA4-519F9C90B586</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>59D9D85A-0ED2-4896-860E-C1A262CCAA6F</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>66162122-17BA-4288-B652-DDBB859E64A5</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>15DD1766-91D1-423A-9828-763FED6EBD20</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>B0A7AD3D-5BDA-4645-9C8D-44FE99735907</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>DEF2C780-3913-41AC-8EB5-1B5AF777A3C2</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>7BD13B93-B843-4B0E-9CC5-E8E57E174545</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>A35F0B27-FE8C-4FA4-9988-3BC31A9DB613</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>40D06859-CADC-4379-B57A-3FCD773386D1</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>988868F1-7001-418B-81F9-18B5FEA4310C</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>F5CCB0D8-4488-4513-AD37-A515629C5065</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>7C58741A-5CF2-4104-9E55-237DFE7ED408</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>D49125EC-80F0-4361-B5C5-08679992E52B</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>9C5B6033-85F0-4D44-AA6F-25B046A53462</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>826F82F9-440A-4E9F-9189-87FF045FC81D</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>CF16178C-670D-452F-99AB-B488F8CC50B5</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>E968C214-F8E0-4A10-B958-CFADA3451AE9</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>5FF90010-0CF0-4AE7-A4E7-C68BCC230CBA</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>BA7DA2A8-7499-4C10-A5A7-695D0FA882DA</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>0DBDD8B5-FADA-453C-A369-3D306EF8B87B</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>8DBD1AA8-73EF-4A16-9631-B708684C05ED</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>E9BFC316-AF6F-4CF0-881B-D1A8E3D10E97</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>AF4F8EA1-BF18-46CF-A3C3-1684BAD50AAB</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>A8524D2B-9736-46FF-89E8-FA64AC4B0977</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>5AF666F5-0A26-49CC-9CB3-4511D87B3CC9</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>1CFB92E9-8DC4-4240-A67D-8569DF318209</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>A2495190-B957-4858-BFF6-F3CAE7BE8FA1</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>AA5EFEAB-5761-4DC4-8E5B-3E4E7C2DC609</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>83243A0C-28B6-46D4-B36E-2DE92314854A</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>6C7BA207-2625-4256-9D03-C32677F7B614</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>E5459E42-3153-4851-9538-6850DB04EE42</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
                     <ItemID>E683CB63-AE18-404F-B233-CC8825D76E0D</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>3807AAC4-A517-4167-8544-79DC40335F45</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>2C349565-4609-42B7-9A54-3A554FD08856</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>46CBA9E8-BB66-4398-8131-A8146FBD01C9</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>AF5226E6-BEEF-49A8-B152-FA70BC2C1EE7</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>D7750878-3522-4725-8CF0-30577022B1BA</ItemID>
@@ -24,10 +243,43 @@
                     <ItemID>CBC3B976-6349-444D-BB84-399364C843C9</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
+                    <ItemID>CB7CD1D9-F029-497B-A24F-F66E185DE135</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>FFC6E4BD-67C8-4A2B-B2B2-75D1419D2D9A</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>F74EB674-0F79-4804-9263-EF52DF418914</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>0AA11A09-5232-4B57-9378-E6C439B551EF</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>53F28708-CDBD-4F4C-BCA9-730ED7DFB442</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>B80F78CD-4B01-455F-8F44-715B9E34B384</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>48F8DCC4-888A-4EF5-999F-47D0B7CEF5E8</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
                     <ItemID>508E7F74-EB15-4968-8AF4-73864ED118B8</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>01A45120-9632-42BE-BF39-516A4EF432A6</ItemID>
+                    <ItemID>6DBC90AD-DFE7-42FA-ADB9-B26BB23DF6B2</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>CF441B33-41CB-4107-B398-A4D738B82D53</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>73E7825C-8FA5-45E4-B88F-BEE8CB786D6C</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>FDDA4961-EC07-47B8-8F68-53DC2488ABC1</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>7B8F8BD5-8C85-46A6-925C-A6E98A5E62E1</ItemID>
                 </OutlinerExpandedState>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
@@ -174,7 +426,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="96D2CA50-66EF-4AA2-AA05-958087E96DF8" Type="Folder" Created="2021-02-28 01:01:16 -0700" Modified="2022-01-27 22:39:18 -0700">
+                        <BinderItem UUID="96D2CA50-66EF-4AA2-AA05-958087E96DF8" Type="Folder" Created="2021-02-28 01:01:16 -0700" Modified="2022-01-31 16:21:26 -0700">
                             <Title>What is it?</Title>
                             <MetaData>
                                 <LabelID>0</LabelID>
@@ -187,7 +439,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9C5B6033-85F0-4D44-AA6F-25B046A53462" Type="Folder" Created="2021-10-27 15:25:46 -0700" Modified="2022-01-27 22:39:18 -0700">
+                                <BinderItem UUID="9C5B6033-85F0-4D44-AA6F-25B046A53462" Type="Folder" Created="2021-10-27 15:25:46 -0700" Modified="2022-01-31 16:21:26 -0700">
                                     <Title>Initial Encounter</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -260,7 +512,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="B209DF4E-5025-4C68-8A1A-6A1BEDE05E4D" Type="Folder" Created="2021-10-27 15:27:18 -0700" Modified="2022-01-27 22:39:18 -0700">
+                                <BinderItem UUID="B209DF4E-5025-4C68-8A1A-6A1BEDE05E4D" Type="Folder" Created="2021-10-27 15:27:18 -0700" Modified="2022-01-31 16:21:27 -0700">
                                     <Title>Learning a Move</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -321,7 +573,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="D49125EC-80F0-4361-B5C5-08679992E52B" Type="Folder" Created="2021-10-27 15:28:35 -0700" Modified="2022-01-27 22:39:18 -0700">
+                                <BinderItem UUID="D49125EC-80F0-4361-B5C5-08679992E52B" Type="Folder" Created="2021-10-27 15:28:35 -0700" Modified="2022-01-31 16:21:27 -0700">
                                     <Title>Evolution of Tricking</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -341,12 +593,12 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextMode>Script</TextMode>
-                                                <TextSelection>510,0</TextSelection>
+                                                <TextSelection>8215,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="A8524D2B-9736-46FF-89E8-FA64AC4B0977" Type="Folder" Created="2021-10-27 15:30:27 -0700" Modified="2022-01-27 22:39:18 -0700">
+                                <BinderItem UUID="A8524D2B-9736-46FF-89E8-FA64AC4B0977" Type="Folder" Created="2021-10-27 15:30:27 -0700" Modified="2022-01-31 16:21:27 -0700">
                                     <Title>Terminology and Technicals</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -405,7 +657,7 @@
                                                 <TextSelection>5359,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="01A45120-9632-42BE-BF39-516A4EF432A6" Type="Folder" Created="2021-10-27 12:54:23 -0700" Modified="2022-01-27 22:39:19 -0700">
+                                        <BinderItem UUID="01A45120-9632-42BE-BF39-516A4EF432A6" Type="Folder" Created="2021-10-27 12:54:23 -0700" Modified="2022-01-31 16:21:28 -0700">
                                             <Title>Paramaters of Tricking</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -462,7 +714,7 @@
                                                         <TextSelection>10450,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="40D06859-CADC-4379-B57A-3FCD773386D1" Type="Text" Created="2021-12-24 16:04:08 -0700" Modified="2022-01-01 19:33:36 -0700">
+                                                <BinderItem UUID="40D06859-CADC-4379-B57A-3FCD773386D1" Type="Text" Created="2021-12-24 16:04:08 -0700" Modified="2022-01-31 16:23:05 -0700">
                                                     <Title>Invert Tricks</Title>
                                                     <MetaData>
                                                         <LabelID>4</LabelID>
@@ -473,7 +725,7 @@
                                                         <TextSelection>3796,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="F5CCB0D8-4488-4513-AD37-A515629C5065" Type="Text" Created="2021-12-24 17:01:40 -0700" Modified="2022-01-18 22:32:49 -0700">
+                                                <BinderItem UUID="F5CCB0D8-4488-4513-AD37-A515629C5065" Type="Text" Created="2021-12-24 17:01:40 -0700" Modified="2022-01-31 16:24:50 -0700">
                                                     <Title>Axes</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -505,7 +757,7 @@
                                                         <TextSelection>458,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="F74EB674-0F79-4804-9263-EF52DF418914" Type="Text" Created="2021-12-24 16:05:31 -0700" Modified="2022-01-22 16:58:45 -0700">
+                                                <BinderItem UUID="F74EB674-0F79-4804-9263-EF52DF418914" Type="Text" Created="2021-12-24 16:05:31 -0700" Modified="2022-01-31 18:01:48 -0700">
                                                     <Title>Kicks</Title>
                                                     <MetaData>
                                                         <LabelID>4</LabelID>
@@ -513,7 +765,7 @@
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextMode>Script</TextMode>
-                                                        <TextSelection>1,0</TextSelection>
+                                                        <TextSelection>636,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="B80F78CD-4B01-455F-8F44-715B9E34B384" Type="Text" Created="2021-12-24 16:06:25 -0700" Modified="2022-01-01 17:08:26 -0700">
@@ -598,13 +850,22 @@
                                                 <TextSelection>4111,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="EED59DE4-1833-4FF1-8569-4B0849E9E3E7" Type="Text" Created="2022-01-22 17:52:50 -0700" Modified="2022-01-22 17:53:11 -0700">
+                                        <BinderItem UUID="EED59DE4-1833-4FF1-8569-4B0849E9E3E7" Type="Text" Created="2022-01-22 17:52:50 -0700" Modified="2022-01-31 17:22:58 -0700">
                                             <Title>The Ever Changing Landscape</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="2AEE8C80-5802-4A5B-867E-9C34AB5D7523" Type="Text" Created="2022-01-31 17:23:32 -0700" Modified="2022-01-31 17:40:00 -0700">
+                                            <Title>Crafting Combos</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection Caret="840">832,8</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -718,7 +979,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="508E7F74-EB15-4968-8AF4-73864ED118B8" Type="Folder" Created="2020-12-12 13:33:24 -0700" Modified="2022-01-01 17:09:25 -0700">
+                        <BinderItem UUID="508E7F74-EB15-4968-8AF4-73864ED118B8" Type="Folder" Created="2020-12-12 13:33:24 -0700" Modified="2022-01-30 17:22:30 -0700">
                             <Title>Why do people do it?</Title>
                             <MetaData>
                                 <LabelID>0</LabelID>
@@ -743,7 +1004,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="90E7532E-156C-422A-93F5-7C90434B4513" Type="Text" Created="2021-11-15 17:40:02 -0700" Modified="2022-01-01 17:11:07 -0700">
+                                        <BinderItem UUID="90E7532E-156C-422A-93F5-7C90434B4513" Type="Text" Created="2021-11-15 17:40:02 -0700" Modified="2022-01-30 17:30:09 -0700">
                                             <Title>Barrier To Entry</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -796,7 +1057,27 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="E5459E42-3153-4851-9538-6850DB04EE42" Type="Text" Created="2021-11-15 16:34:03 -0700" Modified="2022-01-01 17:11:07 -0700">
+                                        <BinderItem UUID="8FD72400-44B2-4E08-8679-1184BF811546" Type="Text" Created="2021-11-15 16:34:42 -0700" Modified="2022-01-31 21:42:41 -0700">
+                                            <Title>Importance of Community</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2373,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="ECA43595-B105-4176-A690-90F4338378B1" Type="Text" Created="2022-01-31 21:42:41 -0700" Modified="2022-01-31 22:41:52 -0700">
+                                            <Title>Tricking Community</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E5459E42-3153-4851-9538-6850DB04EE42" Type="Text" Created="2021-11-15 16:34:03 -0700" Modified="2022-01-31 22:44:24 -0700">
                                             <Title>Local Community</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -826,16 +1107,6 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="8FD72400-44B2-4E08-8679-1184BF811546" Type="Text" Created="2021-11-15 16:34:42 -0700" Modified="2022-01-12 13:43:32 -0700">
-                                            <Title>Importance of Community</Title>
-                                            <MetaData>
-                                                <LabelID>4</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>325,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="66162122-17BA-4288-B652-DDBB859E64A5" Type="Folder" Created="2021-10-24 19:49:48 -0700" Modified="2022-01-12 18:53:07 -0700">
@@ -849,13 +1120,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="BA7DA2A8-7499-4C10-A5A7-695D0FA882DA" Type="Text" Created="2022-01-12 18:53:12 -0700" Modified="2022-01-12 18:53:34 -0700">
+                                        <BinderItem UUID="BA7DA2A8-7499-4C10-A5A7-695D0FA882DA" Type="Text" Created="2022-01-12 18:53:12 -0700" Modified="2022-01-31 23:50:14 -0700">
                                             <Title>Gatherings</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>2496,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="0DBDD8B5-FADA-453C-A369-3D306EF8B87B" Type="Text" Created="2022-01-12 18:53:37 -0700" Modified="2022-01-12 18:53:44 -0700">
@@ -869,7 +1140,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="48F8DCC4-888A-4EF5-999F-47D0B7CEF5E8" Type="Folder" Created="2021-10-24 19:50:26 -0700" Modified="2022-01-05 23:11:41 -0700">
+                                <BinderItem UUID="48F8DCC4-888A-4EF5-999F-47D0B7CEF5E8" Type="Folder" Created="2021-10-24 19:50:26 -0700" Modified="2022-01-29 16:09:57 -0700">
                                     <Title>Flow</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -880,7 +1151,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="8DBD1AA8-73EF-4A16-9631-B708684C05ED" Type="Text" Created="2022-01-05 23:11:28 -0700" Modified="2022-01-28 15:04:39 -0700">
+                                        <BinderItem UUID="8DBD1AA8-73EF-4A16-9631-B708684C05ED" Type="Text" Created="2022-01-05 23:11:28 -0700" Modified="2022-01-29 16:09:57 -0700">
                                             <Title>What is Flow</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -889,8 +1160,8 @@
                                                 <TextSelection>5764,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="CF2EF439-4271-46EF-A8C0-3814C4895599" Type="Text" Created="2022-01-27 13:06:31 -0700" Modified="2022-01-28 18:55:15 -0700">
-                                            <Title>Altered States of Conciousness</Title>
+                                        <BinderItem UUID="CF2EF439-4271-46EF-A8C0-3814C4895599" Type="Text" Created="2022-01-27 13:06:31 -0700" Modified="2022-01-30 13:38:55 -0700">
+                                            <Title>Altered States of Consciousness</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -948,7 +1219,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="000CB190-77F6-4F9E-B08C-39A6EAF543DB" Type="Folder" Created="2022-01-27 20:30:31 -0700" Modified="2022-01-27 22:38:07 -0700">
+                                <BinderItem UUID="000CB190-77F6-4F9E-B08C-39A6EAF543DB" Type="Folder" Created="2022-01-27 20:30:31 -0700" Modified="2022-01-29 16:09:57 -0700">
                                     <Title>Metaphor</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1511,7 +1782,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="26703A43-A1A1-481C-BE55-B20F8F68E1EF" Type="Text" Created="2021-02-08 11:58:53 -0700" Modified="2022-01-01 17:08:26 -0700">
+                <BinderItem UUID="26703A43-A1A1-481C-BE55-B20F8F68E1EF" Type="Text" Created="2021-02-08 11:58:53 -0700" Modified="2022-01-29 16:09:57 -0700">
                     <Title>General</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1588,14 +1859,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2022-02-22 00:00:00 -0700" IgnoreDeadline="No">100000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">2154</SessionTarget>
-        <PreviousSession Words="1120" Characters="6738" Date="2022-01-28 18:55:17 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">2382</SessionTarget>
+        <PreviousSession Words="2436" Characters="13679" Date="2022-01-31 23:54:26 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-01-28 00:00:00 -0700">
-        <DraftWordCount>1119</DraftWordCount>
-        <DraftCharCount>6732</DraftCharCount>
-        <OtherWordCount>5</OtherWordCount>
-        <OtherCharCount>58</OtherCharCount>
+    <RecentWritingHistory Date="2022-01-31 00:00:00 -0700">
+        <DraftWordCount>2436</DraftWordCount>
+        <DraftCharCount>13679</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -137,4 +137,7 @@
     <Day dwc="0" dcc="1" owc="0" occ="0" s="2055" st="w">2022-01-26</Day>
     <Day dwc="1536" dcc="8821" dtwc="44012" owc="0" occ="0" dtcc="254840" s="2131" st="w">2022-01-27</Day>
     <Day dwc="1119" dcc="6732" dtwc="45131" owc="5" occ="58" dtcc="261572" s="2154" st="w">2022-01-28</Day>
+    <Day dwc="93" dcc="538" dtwc="45224" owc="0" occ="0" dtcc="262116" s="2195" st="w">2022-01-29</Day>
+    <Day dwc="8" dcc="67" dtwc="45232" owc="0" occ="0" dtcc="262183" s="2283" st="w">2022-01-30</Day>
+    <Day dwc="2436" dcc="13679" dtwc="47668" owc="0" occ="0" dtcc="275860" s="2382" st="w">2022-01-31</Day>
 </WritingHistory>
