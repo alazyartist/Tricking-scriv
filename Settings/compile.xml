@@ -56,7 +56,7 @@
     <FormatSettings>
         <Format ID="7728A967-9262-4A1C-9A94-C352518B44A3">
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">E683CB63-AE18-404F-B233-CC8825D76E0D</DefaultFrontMatter>
+                <DefaultFrontMatter Add="Yes"/>
             </FrontAndBackMatter>
         </Format>
         <Format ID="paperback-6x9">
@@ -75,6 +75,12 @@
                 <Type ID="E814BA2D-4B34-40AC-BFAA-F4832F28D0B3">DC460EDE-9743-4708-A4E8-B101EAD328E4</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="manuscript-times">
+            <Font>CascadiaCode-Roman</Font></Format>
+        <Format ID="manuscript-courier">
+            <Font>CascadiaCode-Roman</Font></Format>
+        <Format ID="550D6CFF-AD46-45D0-9DC5-6342348628BF">
+            <Font>CascadiaCode-Roman</Font></Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>7728A967-9262-4A1C-9A94-C352518B44A3</Print>
