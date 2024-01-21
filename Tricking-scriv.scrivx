@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.5.1" Device="Dylan-ZBook" Modified="2023-12-24 13:53:02 -0700" ModID="41E0E59B-FA1B-424D-BC8E-68243B456C10">
+<ScrivenerProject Template="No" Version="2.0" Identifier="290D6BF6-5CAD-4E0F-96B0-460D01B33122" Creator="SCRWIN-3.1.5.1" Device="Dylan-ZBook" Modified="2024-01-20 18:22:18 -0700" ModID="002EAAD8-874F-497C-9EAF-9D7B843F4B5A">
     <Binder>
         <BinderItem UUID="3FA74D50-2B26-46FC-A9A8-9661879F8971" Type="DraftFolder" Created="2006-11-04 12:27:29 -0700" Modified="2023-06-01 16:09:31 -0700">
             <Title>Manuscript: Front Matter</Title>
@@ -9,10 +9,13 @@
             <CorkboardAndOutliner>
                 <SelectedSubdocumentUUIDs>CBC3B976-6349-444D-BB84-399364C843C9</SelectedSubdocumentUUIDs>
                 <OutlinerExpandedState>
-                    <ItemID>D7750878-3522-4725-8CF0-30577022B1BA</ItemID>
+                    <ItemID>96D2CA50-66EF-4AA2-AA05-958087E96DF8</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>0E9754AB-6292-4FDF-A6F5-29E24FC388D9</ItemID>
+                    <ItemID>01A45120-9632-42BE-BF39-516A4EF432A6</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>508E7F74-EB15-4968-8AF4-73864ED118B8</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>CBC3B976-6349-444D-BB84-399364C843C9</ItemID>
@@ -24,13 +27,10 @@
                     <ItemID>73E7825C-8FA5-45E4-B88F-BEE8CB786D6C</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>96D2CA50-66EF-4AA2-AA05-958087E96DF8</ItemID>
+                    <ItemID>0E9754AB-6292-4FDF-A6F5-29E24FC388D9</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>508E7F74-EB15-4968-8AF4-73864ED118B8</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
-                    <ItemID>01A45120-9632-42BE-BF39-516A4EF432A6</ItemID>
+                    <ItemID>D7750878-3522-4725-8CF0-30577022B1BA</ItemID>
                 </OutlinerExpandedState>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
@@ -349,7 +349,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="A8524D2B-9736-46FF-89E8-FA64AC4B0977" Type="Folder" Created="2021-10-27 16:30:27 -0700" Modified="2023-12-24 13:45:19 -0700">
+                                <BinderItem UUID="A8524D2B-9736-46FF-89E8-FA64AC4B0977" Type="Folder" Created="2021-10-27 16:30:27 -0700" Modified="2024-01-17 16:17:40 -0700">
                                     <Title>Terminology and Technicals</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -361,13 +361,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="0EA76E8E-81CF-4766-BEBA-109449F4F91A" Type="Text" Created="2023-12-24 13:45:26 -0700" Modified="2023-12-24 13:49:21 -0700">
+                                        <BinderItem UUID="0EA76E8E-81CF-4766-BEBA-109449F4F91A" Type="Text" Created="2023-12-24 13:45:26 -0700" Modified="2024-01-12 02:05:59 -0700">
                                             <Title>Note</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>212,0</TextSelection>
+                                                <TextSelection>1,130</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="AF4F8EA1-BF18-46CF-A3C3-1684BAD50AAB" Type="Text" Created="2021-11-24 13:46:33 -0700" Modified="2022-02-07 16:17:50 -0700">
@@ -417,7 +417,7 @@
                                                 <TextSelection>5359,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="01A45120-9632-42BE-BF39-516A4EF432A6" Type="Folder" Created="2021-10-27 13:54:23 -0700" Modified="2023-12-24 13:45:19 -0700">
+                                        <BinderItem UUID="01A45120-9632-42BE-BF39-516A4EF432A6" Type="Folder" Created="2021-10-27 13:54:23 -0700" Modified="2024-01-17 16:17:41 -0700">
                                             <Title>Paramaters of Tricking</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -429,7 +429,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="1CFB92E9-8DC4-4240-A67D-8569DF318209" Type="Text" Created="2021-12-24 14:01:45 -0700" Modified="2022-05-29 17:50:38 -0700">
+                                                <BinderItem UUID="1CFB92E9-8DC4-4240-A67D-8569DF318209" Type="Text" Created="2021-12-24 14:01:45 -0700" Modified="2024-01-12 03:02:55 -0700">
                                                     <Title>Intro to Framework</Title>
                                                     <MetaData>
                                                         <LabelID>4</LabelID>
@@ -441,7 +441,7 @@
                                                         <TextSelection>404,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="D91EEA08-201D-4B04-9DA8-3BFDA22CB1D7" Type="Text" Created="2021-12-24 14:02:47 -0700" Modified="2022-02-07 16:17:51 -0700">
+                                                <BinderItem UUID="D91EEA08-201D-4B04-9DA8-3BFDA22CB1D7" Type="Text" Created="2021-12-24 14:02:47 -0700" Modified="2024-01-10 22:36:38 -0700">
                                                     <Title>Stances</Title>
                                                     <MetaData>
                                                         <LabelID>4</LabelID>
@@ -939,7 +939,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="48F8DCC4-888A-4EF5-999F-47D0B7CEF5E8" Type="Folder" Created="2021-10-24 20:50:26 -0700" Modified="2022-02-07 16:17:51 -0700">
+                                <BinderItem UUID="48F8DCC4-888A-4EF5-999F-47D0B7CEF5E8" Type="Folder" Created="2021-10-24 20:50:26 -0700" Modified="2024-01-20 18:22:16 -0700">
                                     <Title>Flow</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1038,7 +1038,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="000CB190-77F6-4F9E-B08C-39A6EAF543DB" Type="Folder" Created="2022-01-27 18:30:31 -0700" Modified="2023-12-24 13:08:31 -0700">
+                                <BinderItem UUID="000CB190-77F6-4F9E-B08C-39A6EAF543DB" Type="Folder" Created="2022-01-27 18:30:31 -0700" Modified="2024-01-20 18:06:37 -0700">
                                     <Title>Metaphor</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1089,7 +1089,7 @@
                                         <TextSelection>18,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1" Type="Folder" Created="2021-10-24 20:51:53 -0700" Modified="2023-12-24 13:08:31 -0700">
+                                <BinderItem UUID="8FC7986C-BFAE-4BF3-B1D6-38B2E5711CF1" Type="Folder" Created="2021-10-24 20:51:53 -0700" Modified="2024-01-20 18:06:38 -0700">
                                     <Title>Self-Teaching</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1141,7 +1141,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="59D9D85A-0ED2-4896-860E-C1A262CCAA6F" Type="Folder" Created="2022-01-09 12:39:56 -0700" Modified="2023-12-24 13:08:31 -0700">
+                                <BinderItem UUID="59D9D85A-0ED2-4896-860E-C1A262CCAA6F" Type="Folder" Created="2022-01-09 12:39:56 -0700" Modified="2024-01-20 18:06:38 -0700">
                                     <Title>Shoulders of Giants</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1165,7 +1165,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="83243A0C-28B6-46D4-B36E-2DE92314854A" Type="Text" Created="2021-10-25 14:27:33 -0700" Modified="2023-12-24 13:08:31 -0700">
+                                <BinderItem UUID="83243A0C-28B6-46D4-B36E-2DE92314854A" Type="Text" Created="2021-10-25 14:27:33 -0700" Modified="2024-01-20 18:06:38 -0700">
                                     <Title>Creative Boundaries</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -1730,12 +1730,12 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" ShowOverrun="Yes" Deadline="2024-03-14 00:00:00 -0700" IgnoreDeadline="No">100000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">557</SessionTarget>
-        <PreviousSession Words="38" Characters="213" Date="2023-12-24 13:53:02 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="Yes" WritingDays="">830</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-01-20 18:22:18 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-12-24 00:00:00 -0700">
-        <DraftWordCount>38</DraftWordCount>
-        <DraftCharCount>213</DraftCharCount>
+    <RecentWritingHistory Date="2024-01-20 00:00:00 -0700">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
